@@ -20,12 +20,13 @@ cd dio-docker-project
 
 ### 2. **Structure**
 ```
-project-folder/
-│-- compose.yaml
+dio-docker-project/
 │-- html/
     │-- index.html
     │-- style.css
-    │-- assets/
+|-- compose.yaml
+|-- LICENSE
+|-- README.md
 ```
 
 ### 3. **Run the Server**
